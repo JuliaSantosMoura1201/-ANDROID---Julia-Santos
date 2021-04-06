@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_convert_value">Valor: %s</string>
+    <string name="txt_empty_original_currency">O código original da moeda não pode estar vazio, certifique-se que você apertou o botão "Confirmar"</string>
+    <string name="txt_empty_desired_currency">O código da moeda desejada não pode estar vazio, certifique-se que você apertou o botão "Confirmar"</string>
+    <string name="txt_invalid_original_currency">O código da moeda original está inválido</string>
+    <string name="txt_invalid_desired_currency">O código da moeda desejada está inválida</string>
+    <string name="txt_original_currency_and_desired_currency_can_not_be_the_same">O código original da moeda não pode ser igual ao desejado</string>
+    <string name="txt_invalid_currency_value">O valor desejado é inválido</string>
+</resources>
